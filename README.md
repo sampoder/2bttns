@@ -1,7 +1,7 @@
 # Welcome to 2bttns 👋
 
 ## Getting Started
-Jump right in by checking out our [official documentation](https://www.docs.2bttns.com/)!
+Jump right in by checking out our [official documentation](https://docs.2bttns.com/)!
 
 ## Project Structure
 This repository contains the following folders:
